@@ -4,7 +4,7 @@ A rule-based Python chatbot using Regex for pattern matching. It recognizes user
 
 # 🤖 Rai: A Rule-Based Python Chatbot
 
-A lightweight, pattern-matching chatbot built with Python. Lex uses Regular Expressions (Regex) to understand user intent and provides randomized responses to simulate a more natural conversation.
+A lightweight, pattern-matching chatbot built with Python. Rai uses Regular Expressions (Regex) to understand user intent and provides randomized responses to simulate a more natural conversation.
 
 ## Features
 * **Regex Pattern Matching:** Understands keywords within sentences rather than exact matches.
@@ -39,7 +39,7 @@ r'your|pattern|here': [
 ]
     
 Example Dialogue
-​Bot: Hi! I'm Lex. Type 'exit' to end our chat.
+​Bot: Hi! I'm Rai. Type 'exit' to end our chat.
 You: Hey there, how are you?
 Bot: Doing well, just processing some data. You?
 You: I'm good. What is your name?
